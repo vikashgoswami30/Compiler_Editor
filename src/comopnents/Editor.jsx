@@ -73,7 +73,7 @@ int main() {
         {
           headers: {
             "X-RapidAPI-Key":
-              "c737144cf6msh4b814a58c4f70c4p13c461jsn8eefa46c05bb",
+              "92e83cc227msh17e137f27226010p1bfa72jsna1f67757765e",
             "X-RapidAPI-Host": "judge0-ce.p.rapidapi.com",
             "Content-Type": "application/json",
           },
